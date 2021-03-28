@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Robertosousa86/node-task#readme",
   "dependencies": {
-    "babel": "^6.23.0"
+    "babel": "^6.23.0",
+    "express": "^4.17.1"
   }
 }
